@@ -1,2 +1,2 @@
 # Single-Image-Reflection-Separation-by-Reflection-and-Refraction-Estimate
-Single Image Reflection Removal
+ training model -python main.py
