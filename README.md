@@ -1,7 +1,5 @@
 ## Single-Image-Reflection-Separation-by-Reflection-and-Refraction-Estimate
 
- training model -python main.py
-
  
 ## dataset 
 We use the synthetic method from [Zheng et. al] (https://github.com/q-zh/absorption)
@@ -27,5 +25,19 @@ Data_root/
                -t
                ⋮
  ⋮
+
+```
+
+## Training
+```python
+
+python train.py --data_root 'data_root' --epochs 200
+
+```
+
+## Run testing
+```python
+
+python test.py --data_root 'data_root' --weight_path 'checkpoint_path'
 
 ```
