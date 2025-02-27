@@ -56,3 +56,17 @@ python train.py --data_root 'data_root' --epochs 200
 python test.py --data_root 'data_root' --weight_path 'checkpoint_path'
 
 ```
+
+
+
+
+## Citation
+If you use this code for your research, please cite our paper :
+
+```
+@inproceedings{chan2024single,
+  title={Single Image Reflection Separation by Reflection and Refraction Estimate},
+  author={Chan, U-In and Liu, Tsung-Jung and Liu, Kuan-Hsien},
+  year={2024}
+}
+```
