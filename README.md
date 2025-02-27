@@ -15,9 +15,6 @@ pip install -r requirements.txt
 
 ```
 
-# How to try
-
-
  
 ## dataset 
 We use the synthetic method from [Zheng et. al] (https://github.com/q-zh/absorption)
