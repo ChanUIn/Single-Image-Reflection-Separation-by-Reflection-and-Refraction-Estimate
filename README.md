@@ -65,7 +65,7 @@ If you use this code for your research, please cite our paper :
 
 ```
 @inproceedings{chan2025single,
-  title={Single Image Reflection Separation by Reflection and Refraction Estimate},
+  title={Single Image Reflection Separation by Using Reflection and Refraction Estimations},
   author={Chan, U-In and Liu, Tsung-Jung and Liu, Kuan-Hsien},
   booktitle={2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
   year={2025},
